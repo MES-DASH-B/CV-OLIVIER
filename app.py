@@ -85,7 +85,7 @@ st.write (
 
 st.write("#")
 st.subheader("💯 COMPÉTANCES")
-st.write ("---")
+#st.write ("---")
 
 #st.write ("Pilote processus ressurse materiel")
 #st.write ("05/01/2022 -- 30/09/2023")
