@@ -46,12 +46,12 @@ with col2:
         file_name=resume_file.name,
         mime="application/octet-stream",
     )
-    
-st.write("#")
+st.write("🔗 LinkedIn", LinkedIn ) 
+#st.write("#")
 cols = st.columns(len(PROJETS))
 for index, (platform, link) in enumerate(PROJETS.items()):
     cols  [index].write(f"[{platform}]({link})")
-st.write("🔗 LinkedIn", LinkedIn )
+
 st.write("#")
 st.subheader("Experience & Qualifications")
 st.write (
