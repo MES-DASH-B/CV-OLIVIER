@@ -25,8 +25,8 @@ PROJETS = {
 }
 st.set_page_config(page_title=PAGE_TITLE,page_icon=PAGE_ICON)
 
-#with open(css_file) as f:
-    #st.markdown("<style>{}</style>".format(f.read()), unsafe_allow_html=True)
+with open(css_file) as f:
+    st.markdown("<style>{}</style>".format(f.read()), unsafe_allow_html=True)
 with open(resume_file, "rb") as pdf_file:
     PDFbyte = pdf_file.read()
 profile_pic = Image.open(profile_pic)
@@ -40,13 +40,14 @@ with col2:
     st.write("📞", TELEPHONE)
     st.write("📍", ADRESSE)
     st.write("📧", EMAIL)
+    st.write("🔗 LinkedIn", LinkedIn ) 
     st.download_button(
         label=" Dowload Resume",
         data=PDFbyte,
         file_name=resume_file.name,
         mime="application/octet-stream",
     )
-st.write("🔗 LinkedIn", LinkedIn ) 
+
 #st.write("#")
 cols = st.columns(len(PROJETS))
 for index, (platform, link) in enumerate(PROJETS.items()):
