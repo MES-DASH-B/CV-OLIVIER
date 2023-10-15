@@ -42,7 +42,9 @@ with col2:
     st.write("📞", TELEPHONE)
     st.write("📍", ADRESSE)
     st.write("📧", EMAIL)
-    st.write("🔗 LinkedIn", LinkedIn ) 
+    st.write("🔗 LinkedIn", LinkedIn )
+    st.write("🔗 Projet_1", Projet_1 )
+    st.write("🔗 Projet_2", Projet_2 )
     st.download_button(
         label=" Dowload Resume",
         data=PDFbyte,
@@ -55,7 +57,7 @@ with col2:
 #for index, (platform, link) in enumerate(PROJETS.items()):
     #cols  [index].write(f"[{platform}]({link})")
 
-st.write("#")
+#st.write("#")
 st.subheader("Experience & Qualifications")
 st.write (
     """
@@ -65,8 +67,7 @@ st.write (
 - ✅  kjoijec ioujoejocfj ihuisgryehu copedky ihzoioe ojdcpoeoppopqoio
 """
 )
-st.write("🔗 Projet_1", Projet_1 )
-st.write("🔗 Projet_2", Projet_2 )
+
 
 st.write("#")
 st.subheader("Developed Skills")
