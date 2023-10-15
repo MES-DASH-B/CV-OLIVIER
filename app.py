@@ -15,7 +15,7 @@ NAME = "OLIVIER YOUMBI"
 TELEPHONE = "+33 7 68 96 44 18"
 ADRESSE = "LYON, FRANCE"
 DESCRIPTION = """ 
-ASPIRANT MANAGER DE PROJET D'INNOVATION, INDUSTRIE 4.0/RECHERCHE D'ALTERNANCE (CONTRAT D'APPRENTISSAGE)/FORMATION EN COURS(MASTERE SPECIALISE)
+ASPIRANT MANAGER DE PROJET D'INNOVATION, INDUSTRIE 4.0/RECHERCHE D'ALTERNANCE (CONTRAT D'APPRENTISSAGE)/FORMATION EN COURS(MASTÈRE SPÉCIALISÉ)
 """
 EMAIL = "youmbio@yahoo.com"
 LinkedIn = "https://www.linkedin.com/in/ornello-olivier-youmbi-1a66b1184/"
@@ -73,7 +73,7 @@ st.write("🔗 Projet_2", Projet_2 )
 st.write("🔗 LinkedIn", LinkedIn )
 
 st.write("#")
-st.subheader("Developed Skills")
+st.subheader("👨🏾‍🎓 PARCOURS ACADÉMIQUE")
 st.write (
     """
 - ✅  7 years of eperience exteacting actionable insights from datac hdqqzdko
