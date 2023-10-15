@@ -11,11 +11,11 @@ profile_pic = current_dir / "assets" / "profile-pic.png"
 
 PAGE_TITLE = "Digital CV  YOUMBI OLIVIER"
 PAGE_ICON = ":wave"
-NAME = "💳 OLIVIER YOUMBI"
+NAME = "OLIVIER YOUMBI"
 TELEPHONE = "+33 7 68 96 44 18"
 ADRESSE = "LYON, FRANCE"
 DESCRIPTION = """ 
-🧾 KIRJJDDIKLDLORLKF JDOSRU SHOCOI IOHEKHICHO HOIHEIOHJHB jdooerk coppzkokepoe osopefkjsjejijs,ork sjiri
+ASPIRANT MANAGER DE PROJET D'INNOVATION, INDUSTRIE 4.0/RECHERCHE D'ALTERNANCE (CONTRAT D'APPRENTISSAGE)/FORMATION EN COURS(MASTERE SPECIALISE)
 """
 EMAIL = "youmbio@yahoo.com"
 LinkedIn = "https://www.linkedin.com/in/ornello-olivier-youmbi-1a66b1184/"
