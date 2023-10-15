@@ -76,8 +76,8 @@ st.write("#")
 st.subheader("👨🏾‍🎓 PARCOURS ACADÉMIQUE")
 st.write (
     """
-- ✅  (Oct.2023 - Oct.2024) MASTÈRE SPÉCIALISÉ MANAGER DE PROJET D'INNOVATION, INDUSTRIE4.0
-- ✅  jhdhsuur jshjofoz ishiueropopuop soijofjoi oshjoe jsojoei seffzdnkkzjoid
+- ✅  (2023 - 2024) MASTÈRE SPÉCIALISÉ MANAGER DE PROJET D'INNOVATION,INDUSTRIE4.0:Lyon, 🇫🇷France
+- ✅  (
 - ✅  kjoijec ioujoejocfj ihuisgryehu copedky ihzoioe ojdcpoeoppopqoiozdkzojodjzdozijd
 - ✅  kjoijec ioujoejocfj ihuisgryehu copedky ihzoioe ojdcpoeoppopqoiozkzoiudoi
 """
