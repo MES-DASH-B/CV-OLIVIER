@@ -19,8 +19,7 @@ ASPIRANT MANAGER DE PROJET D'INNOVATION, INDUSTRIE 4.0/RECHERCHE D'ALTERNANCE (C
 """
 EMAIL = "youmbio@yahoo.com"
 LinkedIn = "https://www.linkedin.com/in/ornello-olivier-youmbi-1a66b1184/"
-Projet_1 = "https://ibs-cocacola-lytics-03.streamlit.app/"
-Projet_2 = "https://maintibs-cocacola.streamlit.app/"
+
 #PROJETS = {
     #"Projet 1 - description du projet": "https://ibs-cocacola-lytics-03.streamlit.app/",
     #"Projet 2 - description du projet": "https://maintibs-cocacola.streamlit.app/"
@@ -35,7 +34,7 @@ profile_pic = Image.open(profile_pic)
 
 col1, col2 = st.columns(2, gap="small")
 with col1:
-    st.image(profile_pic, width=350)
+    st.image(profile_pic, width=320)
 with col2:
     st.title(NAME)
     st.write(DESCRIPTION)
@@ -67,7 +66,8 @@ st.write (
 - ✅  kjoijec ioujoejocfj ihuisgryehu copedky ihzoioe ojdcpoeoppopqoiosdcs erhryoyigfdser rgser
 """
 )
-
+Projet_1 = "https://ibs-cocacola-lytics-03.streamlit.app/"
+Projet_2 = "https://maintibs-cocacola.streamlit.app/"
 
 st.write("#")
 st.subheader("Developed Skills")
