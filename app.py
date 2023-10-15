@@ -63,7 +63,7 @@ st.write (
     """
 - ✅  7 years of eperience exteacting actionable insights from datac hdqqnzkoz ozdojoxz
 - ✅  jhdhsuur jshjofoz ishiueropopuop soijofjoi oshjoe jsojoei seffdsgrgdvdrgrgsrherge
-- ✅  kjoijec ioujoejocfj ihuisgryehu copedky ihzoioe ojdcpoeoppopqoiosdbfgdf fbthshdst sthsrthtsdfgtetg dr
+- ✅  kjoijec ioujoejocfj ihuisgryehu copedky ihzoioe ojdcpoeoppopqoiosdbfgdf fbthshdst sthsrthtsdf
 - ✅  kjoijec ioujoejocfj ihuisgryehu copedky ihzoioe ojdcpoeoppopqoiosdcs erhryoyigfdser rgser
 """
 )
