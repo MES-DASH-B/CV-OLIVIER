@@ -1,7 +1,7 @@
 from pathlib import Path
 
 import streamlit as st
-import sklearn
+
 from PIL import Image
 
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
