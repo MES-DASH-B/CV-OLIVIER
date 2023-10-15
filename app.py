@@ -84,17 +84,16 @@ st.write (
 )
 
 st.write("#")
-st.subheader("Experience & Qualifications")
+st.subheader("💯 COMPÉTANCES")
 st.write ("---")
 
-st.write ("Pilote processus ressurse materiel")
-st.write ("05/01/2022 -- 30/09/2023")
+#st.write ("Pilote processus ressurse materiel")
+#st.write ("05/01/2022 -- 30/09/2023")
 st.write (
     """
-- ✅  7 years of eperience exteacting actionable insights from datac hdqqsckuzs
-- ✅  jhdhsuur jshjofoz ishiueropopuop soijofjoi oshjoe jsojoei seffsnkcjiouzcjgiuyu
-- ✅  kjoijec ioujoejocfj ihuisgryehu copedky ihzoioe ojdcpoeoppopqoiozdjsoiuzoi
-- ✅  kjoijec ioujoejocfj ihuisgryehu copedky ihzoioe ojdcpoeoppopqoioscnsoiucozudsuzsycihiyis
+- ✅  Automatisme Industriel (Programmation des API)
+- ✅  Maintenance industrielle (TPM Management)
+- ✅  Analyse de données et reporting (Excel, Python, Streamlit...)
 """
 )
 
