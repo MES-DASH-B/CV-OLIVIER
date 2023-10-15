@@ -21,10 +21,10 @@ EMAIL = "youmbio@yahoo.com"
 LinkedIn = "https://www.linkedin.com/in/ornello-olivier-youmbi-1a66b1184/"
 Projet_1 = "https://ibs-cocacola-lytics-03.streamlit.app/"
 Projet_2 = "https://maintibs-cocacola.streamlit.app/"
-PROJETS = {
-    "Projet 1 - description du projet": "https://ibs-cocacola-lytics-03.streamlit.app/",
-    "Projet 2 - description du projet": "https://maintibs-cocacola.streamlit.app/"
-}
+#PROJETS = {
+    #"Projet 1 - description du projet": "https://ibs-cocacola-lytics-03.streamlit.app/",
+    #"Projet 2 - description du projet": "https://maintibs-cocacola.streamlit.app/"
+#}
 st.set_page_config(page_title=PAGE_TITLE,page_icon=PAGE_ICON)
 
 with open(css_file) as f:
@@ -52,9 +52,9 @@ with col2:
 
 #st.write("#")
 st.write("🔗 LinkedIn", LinkedIn ) 
-cols = st.columns(len(PROJETS))
-for index, (platform, link) in enumerate(PROJETS.items()):
-    cols  [index].write(f"[{platform}]({link})")
+#cols = st.columns(len(PROJETS))
+#for index, (platform, link) in enumerate(PROJETS.items()):
+    #cols  [index].write(f"[{platform}]({link})")
 
 st.write("#")
 st.subheader("Experience & Qualifications")
