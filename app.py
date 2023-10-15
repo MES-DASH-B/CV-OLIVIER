@@ -58,13 +58,14 @@ with col2:
     #cols  [index].write(f"[{platform}]({link})")
 
 #st.write("#")
-st.subheader("EXPERIENCES PROFESSIONNELLES")
+st.subheader("🦺 EXPERIENCES PROFESSIONNELLES")
 st.write (
     """
 - ✅  (Jan.2022 - Oct.2023) PILOTE DU PROCESSUS RESSOURCES MATERIELLES : CocaCola Sénégal (IBS) 
 - ✅  (Jan.2021 - Jan.2022) TECHNICIEN AUTOMATISME INDUSTRIEL : Groupe Castel Cameroun (SABC)
-- ✅  kjoijec ioujoejocfj ihuisgryehu copedky ihzoioe ojdcpoeoppopqoiosdbfgdf fbthshdst sthsrthtsdf
-- ✅  kjoijec ioujoejocfj ihuisgryehu copedky ihzoioe ojdcpoeoppopqoiosdcs erhryoyigfdser rgser
+- ✅  (Mars.2020 - Août.2020) TECHNICIEN AUTOMATISME INDUSTRIEL : Groupe Castel Cameroun 
+- ✅  (Août.2019 - Déc.2019) TECHNICIEN AUTOMATISME INDUSTRIEL : Groupe Castel Cameroun
+- ✅  (Mai.2017 - Sept.2017) TECHNICIEN AUTOMATISME INDUSTRIEL : Groupe Castel Cameroun
 """
 )
 st.write("🔗 Projet_1", Projet_1 )
