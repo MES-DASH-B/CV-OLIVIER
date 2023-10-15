@@ -46,7 +46,7 @@ with col2:
     
     
     st.download_button(
-        label=" Dowload Resume",
+        label="📥 Mon CV détaillé ",
         data=PDFbyte,
         file_name=resume_file.name,
         mime="application/octet-stream",
