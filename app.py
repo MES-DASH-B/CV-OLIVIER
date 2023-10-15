@@ -11,7 +11,7 @@ profile_pic = current_dir / "assets" / "profile-pic.png"
 
 PAGE_TITLE = "Digital CV  YOUMBI OLIVIER"
 PAGE_ICON = ":wave"
-NAME = "OLIVIER YOUMBI"
+NAME = "💳 OLIVIER YOUMBI"
 TELEPHONE = "+33 7 68 96 44 18"
 ADRESSE = "LYON, FRANCE"
 DESCRIPTION = """ 
@@ -36,8 +36,8 @@ with col1:
     st.image(profile_pic, width=320)
 
 with col2:
-    st.title("💳", NAME)
-    st.write("🧾", DESCRIPTION)
+    st.title(NAME)
+    st.write(DESCRIPTION)
     st.write("📞", TELEPHONE)
     st.write("📍", ADRESSE)
     st.download_button(
