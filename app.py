@@ -9,12 +9,6 @@ css_file = current_dir / "styles" / "main.css"
 resume_file = current_dir / "assets" / "CV.pdf"
 profile_pic = current_dir / "assets" / "profile-pic.png"
 
-
-
-
-
-
-
 PAGE_TITLE = "Digital CV  YOUMBI OLIVIER"
 PAGE_ICON = ":wave"
 NAME = "OLIVIER YOUMBI"
@@ -49,13 +43,13 @@ with col2:
         mime="application/octet-stream",
     )
     st.write("📧", EMAIL) 
-    st.write("🔗 LinkedIn", LinkedIn ) 
+     
 
 st.write("#")
 cols = st.columns(len(PROJETS))
 for index, (platform, link) in enumerate(PROJETS.items()):
     cols  [index].write(f"[{platform}]({link})")
-
+st.write("🔗 LinkedIn", LinkedIn )
 st.write("#")
 st.subheader("Experience & Qualifications")
 st.write (
