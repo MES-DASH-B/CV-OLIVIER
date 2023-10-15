@@ -76,7 +76,7 @@ st.write("#")
 st.subheader("👨🏾‍🎓 PARCOURS ACADÉMIQUE")
 st.write (
     """
-- ✅  (2023 - 2024) MASTÈRE SPÉCIALISÉ MANAGER DE PROJET D'INNOVATION,INDUSTRIE4.0:Lyon, 🇫🇷France
+- ✅  (2023 - 2024) MASTÈRE SPÉCIALISÉ MANAGER DE PROJET D'INNOVATION, I4.0 : Lyon, 🇫🇷France
 - ✅  (
 - ✅  kjoijec ioujoejocfj ihuisgryehu copedky ihzoioe ojdcpoeoppopqoiozdkzojodjzdozijd
 - ✅  kjoijec ioujoejocfj ihuisgryehu copedky ihzoioe ojdcpoeoppopqoiozkzoiudoi
