@@ -13,7 +13,7 @@ PAGE_TITLE = "Digital CV  YOUMBI OLIVIER"
 PAGE_ICON = ":wave"
 NAME = "OLIVIER YOUMBI"
 DESCRIPTION = """ 
-🧾 KIRJJDDIKLDLORLKF JDOSRU SHOCOI IOHEKHICHO HOIHEIOHJHB
+🧾 KIRJJDDIKLDLORLKF JDOSRU SHOCOI IOHEKHICHO HOIHEIOHJHB jdooerk coppzkokepoe osopefkjsjejijs,ork sjiri
 """
 EMAIL = "youmbio@yahoo.com"
 LinkedIn = "https://www.linkedin.com/in/ornello-olivier-youmbi-1a66b1184/"
