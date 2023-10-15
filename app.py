@@ -61,10 +61,10 @@ with col2:
 st.subheader("Experience & Qualifications")
 st.write (
     """
-- ✅  7 years of eperience exteacting actionable insights from datac hdqq
-- ✅  jhdhsuur jshjofoz ishiueropopuop soijofjoi oshjoe jsojoei seff
-- ✅  kjoijec ioujoejocfj ihuisgryehu copedky ihzoioe ojdcpoeoppopqoio
-- ✅  kjoijec ioujoejocfj ihuisgryehu copedky ihzoioe ojdcpoeoppopqoio
+- ✅  7 years of eperience exteacting actionable insights from datac hdqqnzkoz ozdojoxz
+- ✅  jhdhsuur jshjofoz ishiueropopuop soijofjoi oshjoe jsojoei seffdsgrgdvdrgrgsrherge
+- ✅  kjoijec ioujoejocfj ihuisgryehu copedky ihzoioe ojdcpoeoppopqoiosdbfgdf fbthshdst sthsrthtsdfgtetg dr
+- ✅  kjoijec ioujoejocfj ihuisgryehu copedky ihzoioe ojdcpoeoppopqoiosdcs erhryoyigfdser rgser
 """
 )
 
@@ -73,10 +73,10 @@ st.write("#")
 st.subheader("Developed Skills")
 st.write (
     """
-- ✅  7 years of eperience exteacting actionable insights from datac hdqq
-- ✅  jhdhsuur jshjofoz ishiueropopuop soijofjoi oshjoe jsojoei seff
-- ✅  kjoijec ioujoejocfj ihuisgryehu copedky ihzoioe ojdcpoeoppopqoio
-- ✅  kjoijec ioujoejocfj ihuisgryehu copedky ihzoioe ojdcpoeoppopqoio
+- ✅  7 years of eperience exteacting actionable insights from datac hdqqzdko
+- ✅  jhdhsuur jshjofoz ishiueropopuop soijofjoi oshjoe jsojoei seffzdnkkzjoid
+- ✅  kjoijec ioujoejocfj ihuisgryehu copedky ihzoioe ojdcpoeoppopqoiozdkzojodjzdozijd
+- ✅  kjoijec ioujoejocfj ihuisgryehu copedky ihzoioe ojdcpoeoppopqoiozkzoiudoi
 """
 )
 
@@ -88,10 +88,10 @@ st.write ("Pilote processus ressurse materiel")
 st.write ("05/01/2022 -- 30/09/2023")
 st.write (
     """
-- ✅  7 years of eperience exteacting actionable insights from datac hdqq
-- ✅  jhdhsuur jshjofoz ishiueropopuop soijofjoi oshjoe jsojoei seff
-- ✅  kjoijec ioujoejocfj ihuisgryehu copedky ihzoioe ojdcpoeoppopqoio
-- ✅  kjoijec ioujoejocfj ihuisgryehu copedky ihzoioe ojdcpoeoppopqoio
+- ✅  7 years of eperience exteacting actionable insights from datac hdqqsckuzs
+- ✅  jhdhsuur jshjofoz ishiueropopuop soijofjoi oshjoe jsojoei seffsnkcjiouzcjgiuyu
+- ✅  kjoijec ioujoejocfj ihuisgryehu copedky ihzoioe ojdcpoeoppopqoiozdjsoiuzoi
+- ✅  kjoijec ioujoejocfj ihuisgryehu copedky ihzoioe ojdcpoeoppopqoioscnsoiucozudsuzsycihiyis
 """
 )
 
