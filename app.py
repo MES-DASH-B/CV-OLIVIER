@@ -34,22 +34,19 @@ profile_pic = Image.open(profile_pic)
 col1, col2 = st.columns(2, gap="small")
 with col1:
     st.image(profile_pic, width=320)
-
 with col2:
     st.title(NAME)
     st.write(DESCRIPTION)
     st.write("📞", TELEPHONE)
     st.write("📍", ADRESSE)
+    st.write("📧", EMAIL)
     st.download_button(
         label=" Dowload Resume",
         data=PDFbyte,
         file_name=resume_file.name,
         mime="application/octet-stream",
     )
-   
-    st.write("📧", EMAIL)
-     
-
+    
 st.write("#")
 cols = st.columns(len(PROJETS))
 for index, (platform, link) in enumerate(PROJETS.items()):
