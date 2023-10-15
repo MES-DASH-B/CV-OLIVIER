@@ -64,19 +64,19 @@ st.write (
 - ✅  (Jan.2022 - Oct.2023) PILOTE DU PROCESSUS RESSOURCES MATERIELLES : CocaCola Sénégal (IBS) 
 - ✅  (Jan.2021 - Jan.2022) TECHNICIEN AUTOMATISME INDUSTRIEL : Groupe Castel Cameroun (SABC)
 - ✅  (Mars.2020 - Août.2020) TECHNICIEN AUTOMATISME INDUSTRIEL : Groupe Castel Cameroun 
-- ✅  (Août.2019 - Déc.2019) TECHNICIEN AUTOMATISME INDUSTRIEL : Groupe Castel Cameroun
-- ✅  (Mai.2017 - Sept.2017) TECHNICIEN AUTOMATISME INDUSTRIEL : Groupe Castel Cameroun
+- ✅  (Août.2019 - Déc.2019) STAGIAIRE MAINTENANCES INDUSTRIELLE : Groupe Castel Cameroun
+- ✅  (Mai.2017 - Sept.2017) STAGIAIRE AUTOMATISME INDUSTRIEL : Groupe Castel Cameroun
 """
 )
-st.write("🔗 Projet_1", Projet_1 )
-st.write("🔗 Projet_2", Projet_2 )
+st.write("🔴 Projet_1", Projet_1 )
+st.write("🔴 Projet_2", Projet_2 )
 st.write("🔗 LinkedIn", LinkedIn )
 
 st.write("#")
 st.subheader("👨🏾‍🎓 PARCOURS ACADÉMIQUE")
 st.write (
     """
-- ✅  7 years of eperience exteacting actionable insights from datac hdqqzdko
+- ✅  (Oct.2023 - Oct.2024) MASTÈRE SPÉCIALISÉ MANAGER DE PROJET D'INNOVATION, INDUSTRIE4.0
 - ✅  jhdhsuur jshjofoz ishiueropopuop soijofjoi oshjoe jsojoei seffzdnkkzjoid
 - ✅  kjoijec ioujoejocfj ihuisgryehu copedky ihzoioe ojdcpoeoppopqoiozdkzojodjzdozijd
 - ✅  kjoijec ioujoejocfj ihuisgryehu copedky ihzoioe ojdcpoeoppopqoiozkzoiudoi
