@@ -76,10 +76,10 @@ st.write("#")
 st.subheader("👨🏾‍🎓 PARCOURS ACADÉMIQUE")
 st.write (
     """
-- ✅  (2023 - 2024) MASTÈRE SPÉCIALISÉ MANAGER DE PROJET D'INNOVATION, I4.0 : Lyon, 🇫🇷France
-- ✅  (
-- ✅  kjoijec ioujoejocfj ihuisgryehu copedky ihzoioe ojdcpoeoppopqoiozdkzojodjzdozijd
-- ✅  kjoijec ioujoejocfj ihuisgryehu copedky ihzoioe ojdcpoeoppopqoiozkzoiudoi
+- ✅  (2023 - 2024) MASTÈRE SPÉCIALISÉ MANAGER DE PROJET D'INNOVATION, I4.0 : Lyon, France🇫🇷
+- ✅  (2018 - 2020) MASTER EN GENIE INDUSTRIEL ET MAINTENANCE : Douala, Cameroun🇨🇲
+- ✅  (2016 - 2017) LICENCE GENIE ELECTRIQUE / INFORMATIQUE INDUSTRIELLE : Douala, Cameroun🇨🇲
+- ✅  (2014 - 2016) BTS INFORMATIQUE INDUSTRIELLE Douala, Cameroun🇨🇲
 """
 )
 
