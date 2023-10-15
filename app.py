@@ -61,7 +61,7 @@ with col2:
 st.subheader("EXPERIENCES PROFESSIONNELLES")
 st.write (
     """
-- ✅  (Jan.2022 - Oct.2023) PILOTE DU PROCESSUS RESSOURCES MATERIELLES : COCA COLA SENEGAL (IBS) 
+- ✅  (Jan.2022 - Oct.2023) PILOTE DU PROCESSUS RESSOURCES MATERIELLES : CocaCola Sénégal (IBS) 
 - ✅  jhdhsuur jshjofoz ishiueropopuop soijofjoi oshjoe jsojoei seffdsgrgdvdrgrgsrherge
 - ✅  kjoijec ioujoejocfj ihuisgryehu copedky ihzoioe ojdcpoeoppopqoiosdbfgdf fbthshdst sthsrthtsdf
 - ✅  kjoijec ioujoejocfj ihuisgryehu copedky ihzoioe ojdcpoeoppopqoiosdcs erhryoyigfdser rgser
