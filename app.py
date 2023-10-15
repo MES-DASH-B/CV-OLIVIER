@@ -42,7 +42,7 @@ with col2:
     st.write("📞", TELEPHONE)
     st.write("📍", ADRESSE)
     st.write("📧", EMAIL)
-    
+    st.write("🔗 LinkedIn", LinkedIn ) 
     st.download_button(
         label=" Dowload Resume",
         data=PDFbyte,
@@ -51,7 +51,6 @@ with col2:
     )
 
 #st.write("#")
-st.write("🔗 LinkedIn", LinkedIn ) 
 #cols = st.columns(len(PROJETS))
 #for index, (platform, link) in enumerate(PROJETS.items()):
     #cols  [index].write(f"[{platform}]({link})")
