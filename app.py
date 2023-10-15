@@ -62,7 +62,7 @@ st.subheader("EXPERIENCES PROFESSIONNELLES")
 st.write (
     """
 - ✅  (Jan.2022 - Oct.2023) PILOTE DU PROCESSUS RESSOURCES MATERIELLES : CocaCola Sénégal (IBS) 
-- ✅  jhdhsuur jshjofoz ishiueropopuop soijofjoi oshjoe jsojoei seffdsgrgdvdrgrgsrherge
+- ✅  (Jan.2021 - Jan.2022) TECHNICIEN AUTOMATISME INDUSTRIEL : Groupe Castel Cameroun (SABC)
 - ✅  kjoijec ioujoejocfj ihuisgryehu copedky ihzoioe ojdcpoeoppopqoiosdbfgdf fbthshdst sthsrthtsdf
 - ✅  kjoijec ioujoejocfj ihuisgryehu copedky ihzoioe ojdcpoeoppopqoiosdcs erhryoyigfdser rgser
 """
