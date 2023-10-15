@@ -58,10 +58,10 @@ with col2:
     #cols  [index].write(f"[{platform}]({link})")
 
 #st.write("#")
-st.subheader("Experience & Qualifications")
+st.subheader("EXPERIENCES PROFESSIONNELLES")
 st.write (
     """
-- ✅  7 years of eperience exteacting actionable insights from datac hdqqnzkoz ozdojoxz
+- ✅  ( Jan.2022 - Oct.2023 ) PILOTE DU PROCESSUS RESSOURCES MATERIELLES : COCA COLA SENEGAL ( IBS ) 
 - ✅  jhdhsuur jshjofoz ishiueropopuop soijofjoi oshjoe jsojoei seffdsgrgdvdrgrgsrherge
 - ✅  kjoijec ioujoejocfj ihuisgryehu copedky ihzoioe ojdcpoeoppopqoiosdbfgdf fbthshdst sthsrthtsdf
 - ✅  kjoijec ioujoejocfj ihuisgryehu copedky ihzoioe ojdcpoeoppopqoiosdcs erhryoyigfdser rgser
