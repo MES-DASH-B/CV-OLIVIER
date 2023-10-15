@@ -43,7 +43,7 @@ with col2:
     st.write("📞", TELEPHONE)
     st.write("📍", ADRESSE)
     st.write("📧", EMAIL)
-    st.write("🔗 LinkedIn", LinkedIn )
+    
     
     st.download_button(
         label=" Dowload Resume",
@@ -69,6 +69,7 @@ st.write (
 )
 st.write("🔗 Projet_1", Projet_1 )
 st.write("🔗 Projet_2", Projet_2 )
+st.write("🔗 LinkedIn", LinkedIn )
 
 st.write("#")
 st.subheader("Developed Skills")
