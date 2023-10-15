@@ -19,6 +19,8 @@ ASPIRANT MANAGER DE PROJET D'INNOVATION, INDUSTRIE 4.0/RECHERCHE D'ALTERNANCE (C
 """
 EMAIL = "youmbio@yahoo.com"
 LinkedIn = "https://www.linkedin.com/in/ornello-olivier-youmbi-1a66b1184/"
+Projet_1 = "https://ibs-cocacola-lytics-03.streamlit.app/"
+Projet_2 = "https://maintibs-cocacola.streamlit.app/"
 
 #PROJETS = {
     #"Projet 1 - description du projet": "https://ibs-cocacola-lytics-03.streamlit.app/",
@@ -42,8 +44,7 @@ with col2:
     st.write("📍", ADRESSE)
     st.write("📧", EMAIL)
     st.write("🔗 LinkedIn", LinkedIn )
-    st.write("🔗 Projet_1", Projet_1 )
-    st.write("🔗 Projet_2", Projet_2 )
+    
     st.download_button(
         label=" Dowload Resume",
         data=PDFbyte,
@@ -66,8 +67,8 @@ st.write (
 - ✅  kjoijec ioujoejocfj ihuisgryehu copedky ihzoioe ojdcpoeoppopqoiosdcs erhryoyigfdser rgser
 """
 )
-Projet_1 = "https://ibs-cocacola-lytics-03.streamlit.app/"
-Projet_2 = "https://maintibs-cocacola.streamlit.app/"
+st.write("🔗 Projet_1", Projet_1 )
+st.write("🔗 Projet_2", Projet_2 )
 
 st.write("#")
 st.subheader("Developed Skills")
