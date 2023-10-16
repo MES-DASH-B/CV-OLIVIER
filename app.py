@@ -20,7 +20,7 @@ ASPIRANT MANAGER DE PROJET D'INNOVATION, INDUSTRIE 4.0/RECHERCHE D'ALTERNANCE (C
 EMAIL = "youmbio@yahoo.com"
 LinkedIn = "https://www.linkedin.com/in/ornello-olivier-youmbi-1a66b1184/"
 Projet_1 = "https://abc-cocacola-lytics-03.streamlit.app/"
-Projet_2 = "https://maint-cocacolaxyz.streamlit.app/"
+Projet_2 = "https://maint-cocacola.streamlit.app/"
 
 #PROJETS = {
     #"Projet 1 - description du projet": "https://ibs-cocacola-lytics-03.streamlit.app/",
