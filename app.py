@@ -84,7 +84,7 @@ st.write (
 )
 
 st.write("#")
-st.subheader("💯 COMPÉTANCES")
+st.subheader("💯 COMPÉTENCES")
 #st.write ("---")
 
 #st.write ("Pilote processus ressurse materiel")
